@@ -1,0 +1,16 @@
+{
+	"telemetryDisabled": false,
+	"cliId": "973c829a-b0fc-4b04-b107-441797173d1d",
+	"userId": "6958841b948bf49aeb449860",
+	"users": {
+		"6958841b948bf49aeb449860": {
+			"id": "6958841b948bf49aeb449860",
+			"name": null,
+			"email": "movebusinessstrategy@gmail.com",
+			"auth": {
+				"token": "nfc_LtQbg8z8dVHqmZk5aR83ixhcZz44Xxt4f231",
+				"github": {}
+			}
+		}
+	}
+}

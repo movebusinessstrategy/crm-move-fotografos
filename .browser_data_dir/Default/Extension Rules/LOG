@@ -1,2 +1,3 @@
-2025/12/31-13:11:09.961 3f5 Creating DB /home/ubuntu/.browser_data_dir/Default/Extension Rules since it was missing.
-2025/12/31-13:11:09.963 3f5 Reusing MANIFEST /home/ubuntu/.browser_data_dir/Default/Extension Rules/MANIFEST-000001
+2026/01/02-21:38:07.335 2db2 Reusing MANIFEST /home/ubuntu/.browser_data_dir/Default/Extension Rules/MANIFEST-000001
+2026/01/02-21:38:07.335 2db2 Recovering log #3
+2026/01/02-21:38:07.336 2db2 Reusing old log /home/ubuntu/.browser_data_dir/Default/Extension Rules/000003.log 

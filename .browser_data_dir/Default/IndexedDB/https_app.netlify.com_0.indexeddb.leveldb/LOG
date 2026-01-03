@@ -1,0 +1,6 @@
+2026/01/03-02:52:36.109 2db3 Creating DB /home/ubuntu/.browser_data_dir/Default/IndexedDB/https_app.netlify.com_0.indexeddb.leveldb since it was missing.
+2026/01/03-02:52:36.110 2db3 Reusing MANIFEST /home/ubuntu/.browser_data_dir/Default/IndexedDB/https_app.netlify.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/03-02:52:37.055 2db4 Level-0 table #5: started
+2026/01/03-02:52:37.057 2db4 Level-0 table #5: 10370 bytes OK
+2026/01/03-02:52:37.058 2db4 Delete type=0 #3
+2026/01/03-02:52:37.058 2db2 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

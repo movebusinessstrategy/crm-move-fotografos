@@ -1,2 +1,3 @@
-2025/12/31-13:11:14.593 3fc Creating DB /home/ubuntu/.browser_data_dir/Default/Managed Extension Settings/pjifceabdjknbkaobmeokgnlfpdfciaf since it was missing.
-2025/12/31-13:11:14.596 3fc Reusing MANIFEST /home/ubuntu/.browser_data_dir/Default/Managed Extension Settings/pjifceabdjknbkaobmeokgnlfpdfciaf/MANIFEST-000001
+2026/01/02-21:38:18.292 2db2 Reusing MANIFEST /home/ubuntu/.browser_data_dir/Default/Managed Extension Settings/pjifceabdjknbkaobmeokgnlfpdfciaf/MANIFEST-000001
+2026/01/02-21:38:18.293 2db2 Recovering log #3
+2026/01/02-21:38:18.293 2db2 Reusing old log /home/ubuntu/.browser_data_dir/Default/Managed Extension Settings/pjifceabdjknbkaobmeokgnlfpdfciaf/000003.log 
